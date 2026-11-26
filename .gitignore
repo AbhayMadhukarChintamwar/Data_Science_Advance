@@ -2,7 +2,8 @@
 *.jpeg
 *.png
 *.gif
-
+*.xml
+*.avi
 
 
 DS_19_CCN/dataset/
